@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+html {   
+    background-color: #94167F;
+
+ }
+ h1{
+    color: #153CB4
+ }
+ h3{
+    color: #300350
+ }
+ ul{
+    color: #f9ac53
+ }
